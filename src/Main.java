@@ -5,6 +5,9 @@ public class Main {
 
         System.out.println("=== Демонстрация алгоритмов в одном классе ===\n");
 
+        System.out.println("sdfsdfsdfsdfsdfsdf");
+
+
         // Массив для сортировок и поиска
         int[] arr = generateRandomArray(20, 0, 200);
         System.out.println("Исходный массив:");
